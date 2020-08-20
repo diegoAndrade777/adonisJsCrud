@@ -18,7 +18,7 @@ To install the dependencies and to execute, clone the project on your computer a
 # First, install Adonis CLI
 $ npm install --global @adonis/cli
 
-# Enter on backend directory
+# Enter on project directory
 $ cd adonisJsCrud
 
 # Install dependencies
@@ -26,7 +26,7 @@ $ npm install
 
 # Create and choose your BD (PostGres, Sqlite, Mysql etc.) and set database informations at .env archive
 
-# Run Migrates
+# Run Migrations
 $ adonis migration:run
 
 # Run server:
