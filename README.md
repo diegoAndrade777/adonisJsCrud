@@ -1,4 +1,4 @@
-<img src="web/src/assets/images/nextlevelweek2.png" align="center"></img>
+<img src="/adonisCrud.png" align="center"></img>
 <h1 align="center">AdonisJs CRUD</h1>
 <p align="center">
   <br/>
