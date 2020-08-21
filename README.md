@@ -14,7 +14,7 @@
 
 ## Instalation
 # Insomnia data. You can use to test
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=OwInteractive&uri=https%3A%2F%2Fraw.githubusercontent.com%2FdiegoAndrade777%2FadonisJsCrud%2Fmaster%2FInsomnia_2020-08-21.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=adonisJsCrud&uri=https%3A%2F%2Fraw.githubusercontent.com%2FdiegoAndrade777%2FadonisJsCrud%2Fmaster%2FInsomnia_2020-08-21.json)
 
 To install the dependencies and to execute, clone the project on your computer an execute:
 ```bash
