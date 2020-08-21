@@ -13,6 +13,9 @@
 
 
 ## Instalation
+# Insomnia data. You can use to test
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=OwInteractive&uri=https%3A%2F%2Fraw.githubusercontent.com%2FdiegoAndrade777%2FadonisJsCrud%2Fmaster%2FInsomnia_2020-08-21.json)
+
 To install the dependencies and to execute, clone the project on your computer an execute:
 ```bash
 # First, install Adonis CLI
@@ -25,6 +28,7 @@ $ cd adonisJsCrud
 $ npm install
 
 # Create and choose your BD (PostGres, Sqlite, Mysql etc.) and set database informations at .env archive
+$ npm install --save {your database name: pg | mysql | sqlite3}
 
 # Run Migrations
 $ adonis migration:run
@@ -32,7 +36,7 @@ $ adonis migration:run
 # Run server:
 $ adonis serve --dev
 
-# running on port 5432 (default)
+# running on port 3333
 ```
 
 Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
