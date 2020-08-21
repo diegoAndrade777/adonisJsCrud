@@ -25,7 +25,7 @@ $ cd adonisJsCrud
 # Install dependencies
 $ npm install
 
-# Create and choose your BD (PostGres, Sqlite, Mysql etc.) and set database informations at .env archive using .env.example as an example
+# Create and choose your BD (PostGres, Sqlite, Mysql etc.) and set database informations at .env file using .env.example as an example
 $ npm install --save {your database name: pg | mysql | sqlite3}
 
 # Run Migrations
